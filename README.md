@@ -1,1 +1,1 @@
-# charjs_Homero
+Trabalho utilizando CharJS para PI
